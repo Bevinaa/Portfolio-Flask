@@ -104,3 +104,9 @@ Contributions are welcome! To contribute to this project, please fork the reposi
 
 ## Contact
 
+For questions or further information, please contact:
+
+- **Name:** Bevina R
+- **Email:** bevina2110@gmail.com
+- **GitHub:** [yourusername](https://github.com/Bevinaa)
+
