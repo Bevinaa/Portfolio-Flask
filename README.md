@@ -110,3 +110,20 @@ For questions or further information, please contact:
 - **Email:** bevina2110@gmail.com
 - **GitHub:** [yourusername](https://github.com/Bevinaa)
 
+## Output of the Project
+
+![image](https://github.com/user-attachments/assets/114197ed-40af-420c-8134-6df71a057ba4)
+
+![image](https://github.com/user-attachments/assets/9f1f2de1-1266-472b-8748-f6e88db008ff)
+
+![image](https://github.com/user-attachments/assets/1da36af2-9216-4646-8266-78e320a83fcc)
+
+![image](https://github.com/user-attachments/assets/723d3224-0a07-4ab6-9d1f-5062cddbe6cf)
+
+![image](https://github.com/user-attachments/assets/5c955415-4fde-44b1-ba0c-5da875e4ac57)
+
+
+
+
+
+
